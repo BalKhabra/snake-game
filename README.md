@@ -1,2 +1,2 @@
-https://snakearcade.netlify.app/
+https://balkhabra.github.io/snake-game/
 # snake-game
